@@ -1,4 +1,4 @@
-# This is a collection of links to the various google forms in active use with archived forms moved to the list at the bottom.
+# These are links to the various google forms in active use with archived forms moved to the list at the bottom.
 
 ## Active Forms
 
