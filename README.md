@@ -5,4 +5,4 @@ This is a test repository for finding out how we, the Ave South College Lead Tea
 
 ## Team Meeting Notes
 
-[Meeting Minutes](Meeting Minutes/)
+[Meeting Minutes](Meeting%20Minutes/)
