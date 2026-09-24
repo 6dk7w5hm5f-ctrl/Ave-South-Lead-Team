@@ -8,5 +8,7 @@
 
 ### October
 - [October 6](10-2026/10-06-2026.md)
+
 ---
+
 [Back To Home](../README.md)
