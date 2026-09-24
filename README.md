@@ -5,4 +5,4 @@ This is a test GitHub repository for learning how the Ave South College Lead Tea
 
 ## [Team Meeting Notes](Meeting%20Minutes/)
 
-## [Google Forms Links](Google%20Forms/Google%20Forms%20Links.md)
+## [Google Forms Links](Google%20Forms/)
