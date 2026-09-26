@@ -5,3 +5,5 @@ This is a test GitHub repository for learning how the Ave South College Lead Tea
 ## [Weekly Team Meeting Notes](Meeting%20Minutes/)
 
 ## [Google Forms Links](Google%20Forms/)
+
+## [Team Meeting Devotional Schedule](Team%20Meeting%20Devotional%20Schedule/)
