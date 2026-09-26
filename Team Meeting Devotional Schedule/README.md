@@ -3,7 +3,7 @@
 **Tuesday meetings · Fall 2026 · through December 6**
 
 | Date | Devotional Leader |
-|------|-------------------|
+|---|---|
 | Sept 15 | Reid |
 | Sept 22 | *Meeting Canceled* |
 | Sept 29 | Eden |
