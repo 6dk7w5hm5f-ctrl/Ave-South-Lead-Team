@@ -27,4 +27,4 @@
 
 ---
 
-[Back To Home](../README.md)
+[Return Home](../README.md)
