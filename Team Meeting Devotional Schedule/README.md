@@ -1,6 +1,6 @@
 # Lead Team Meeting Devotional Schedule
 
-**Tuesday meetings · Fall 2026 · Through December 1st**
+**Fall 2026**
 
 | Date | Devotional Leader |
 |---|---|
