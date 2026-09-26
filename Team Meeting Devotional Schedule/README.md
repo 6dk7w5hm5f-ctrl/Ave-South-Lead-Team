@@ -16,8 +16,11 @@
 | Nov 17 | Maliyah |
 | Nov 24 | *Thanksgiving Break — no meeting* |
 | Dec 1 | Ella |
--Tentatively-
+
+**Spring 2027 (Tentative)**
+
+| Date | Devotional Leader |
+|---|---|
 | Jan 19 | Rachel |
 | Jan 26 | Zach |
 | February 2 | Tyler |
-
