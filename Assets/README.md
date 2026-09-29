@@ -4,4 +4,3 @@
 - [2027 Cross-Con Info and Registration](Assets/Images/Ave%20South%20Cross%20Info%20QR.png)
 - 
 
-###
