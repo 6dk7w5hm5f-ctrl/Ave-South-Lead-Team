@@ -7,3 +7,5 @@ This is a test GitHub repository for learning how the Ave South College Lead Tea
 ## [Google Forms Links](Google%20Forms/)
 
 ## [Team Meeting Devotional Schedule](Team%20Meeting%20Devotional%20Schedule/)
+
+## [Miscellaneous Files](Assets/)
