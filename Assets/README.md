@@ -2,5 +2,5 @@
 
 ### QR Codes
 - [2027 Cross-Con Info and Registration](Assets/Images/Ave%20South%20Cross%20Info%20QR.png)
-- [2027 Cross-Con Info and Registration QR Code](Assets/Images/Cross-Con%20QR.md)
+
 
