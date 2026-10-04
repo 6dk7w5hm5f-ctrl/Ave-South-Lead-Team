@@ -10,10 +10,10 @@
 | Oct 6 | Eli |
 | Oct 13 | *Fall Break — no meeting* |
 | Oct 20 | Ben |
-| Oct 27 | Emily |
+| Oct 27 | Maliyah |
 | Nov 3 | Jonathan |
 | Nov 10 | Katie |
-| Nov 17 | Maliyah |
+| Nov 17 | Emily |
 | Nov 24 | *Thanksgiving Break — no meeting* |
 | Dec 1 | Ella |
 
