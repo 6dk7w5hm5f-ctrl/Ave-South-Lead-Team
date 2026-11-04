@@ -13,6 +13,9 @@
 - [October 20](10-2026/10-20-2026.md)
 - [October 27](10-2026/10-27-2026.md)
 
+### November
+- [November 3](11-2026/11-03-2026)
+
 ---
 
 [Return Home](../README.md)
